@@ -1,0 +1,30 @@
+{
+  "name": "apitestwithvalidation",
+  "version": "1.0.0",
+  "description": "Creation of REST API using Express JS with validation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayurdeveloper95/REST-API-using-Express-JS.git"
+  },
+  "keywords": [
+    "REst",
+    "Api",
+    "Express",
+    "Js",
+    "Validation"
+  ],
+  "author": "mayur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayurdeveloper95/REST-API-using-Express-JS/issues"
+  },
+  "homepage": "https://github.com/mayurdeveloper95/REST-API-using-Express-JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
