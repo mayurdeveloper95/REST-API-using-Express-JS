@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/mayurdeveloper95/MERN-stack-course#readme",
   "dependencies": {
+    "config": "^3.3.2",
     "express": "^4.17.1",
-    "joi": "^17.3.0"
+    "joi": "^17.3.0",
+    "morgan": "^1.10.0"
   }
 }
