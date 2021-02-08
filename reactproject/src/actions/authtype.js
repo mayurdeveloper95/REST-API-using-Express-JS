@@ -1,1 +1,0 @@
-export const FETCH_AUTH_DATA="FETCH_AUTH_DATA";
