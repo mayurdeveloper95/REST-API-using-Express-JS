@@ -1,0 +1,8 @@
+.ui.dropdown .menu>.item>.icon{
+    float: right;
+    margin-right: 0px;
+}
+
+.ui.violet.header:hover{
+    cursor:pointer;
+}

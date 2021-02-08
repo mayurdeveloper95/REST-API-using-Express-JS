@@ -1,0 +1,14 @@
+export const FETCH_ALL_PRODUCT = "FETCH_ALL_PRODUCT";
+export const FETCH_ID_PRODUCT = "FETCH_ID_PRODUCT";
+export const ERROR = "ERROR";
+export const ADD_CART = "ADD_CART";
+export const REMOVE_CART = "REMOVE_CART";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const REMOVE_QUANTITY = "REMOVE_QUANTITY";
+export const LOADING = "LOADING";
+export const SHOW_ERROR = "SHOW_ERROR";
+export const NAVI_CART = "NAVI_CART";
+export const CATEGORY="CATEGORY";
+export const TODAY_OFFER="TODAY_OFFER";
+export const LATEST_PRODUCT = "LATEST_PRODUCT";
+export const CART_DATA="CART_DATA";
